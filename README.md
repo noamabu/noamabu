@@ -6,7 +6,13 @@ I am 27 years old, Electrical Engeeniring and computer sciense in the Hebrew Uni
 Eager to learn new things, to improve the world.
 
 ## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Languages and Tools
+![Python]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
+![Java]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg")
+![C++]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg")
+![C]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg")
+![SQL]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg")
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
