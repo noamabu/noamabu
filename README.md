@@ -1,5 +1,9 @@
 ## Hi there 👋 my name is Noam Aburbeh ##
 
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noam-aburbeh-1b0077251)
+
+
 ## About me ##
 
 I am 27 years old, Electrical Engeeniring and computer sciense in the Hebrew University of Jerusalme
