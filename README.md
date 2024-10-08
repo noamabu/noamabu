@@ -9,6 +9,4 @@ Eager to learn new things, to improve the world.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://en.wikipedia.org/wiki/C_(programming_language)">
- <source media="(prefers-color-scheme: light)" srcset="https://en.wikipedia.org/wiki/C_(programming_language)">
- <img alt="YOUR-ALT-TEXT" src="https://en.wikipedia.org/wiki/C_(programming_language)">
 </picture>
